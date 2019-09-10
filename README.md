@@ -10,5 +10,6 @@ Interact js, HTML to Canvas, Firebase, Firestore and Google photos.
 ## Pikachu Posse Team members
 Syed Ackbar, Jack Meuwissen, Isaac Johnson & Seifu Dagnachew
 
+Repo link: https://github.com/dagnachew/crispy-memory
 
-https://dagnachew.github.io/crispy-memory/
+Demo link: https://dagnachew.github.io/crispy-memory/
